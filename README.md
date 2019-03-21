@@ -8,3 +8,4 @@
 * zabudované funkce - https://docs.python.org/3/library/functions.html
 * matematika - https://docs.python.org/3/library/math.html
 * náhoda - https://docs.python.org/3/library/random.html
+* želva - https://docs.python.org/3/library/turtle.html
