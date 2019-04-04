@@ -65,19 +65,15 @@ komplementarni_dna("ATTGC") # vrátí "TAACG"
 komplementarni_dna("GTAT") # vrátí "CATA"
 ```
 
-#### Nahrad znak v řetězci na pozici n
-
-Nahradí v řetězci znak na dané pozici za daný znak, pozice jsou číslovány od 0
+#### Otoč řetězec
 
 ```python
-def nahrad_znak(text, pozice, znak):
+def otoc_retezec(text):
     ...
 
-nahrad_znak("kapr", 1, "o") # vrátí "kopr"
+otoc_retezec("kapr") # vrátí "rpak"
 
-nahrad_znak("adam", 0, "A") # vrátí "Adam"
-
-nahrad_znak("-x-x-", 2, "x") # vrátí "-xxx-"
+nahrad_znak("kajak") # vrátí "kajak"
 ```
 
 #### Palindrom
