@@ -39,7 +39,7 @@ prostredni_pismeno("A") # vrátí "A"
 prostredni_pismeno("") # vrátí ""
 ```
 
-#### Vrať počet samohlísek v řetězci
+#### Vrať počet samohlásek v řetězci
 
 ```python
 def pocet_samohlasek(text):
